@@ -39,7 +39,7 @@ git add Readme.md
 git add .
 ```
 
-`git add` stagne vsechny fily
+`git add.` stagne vsechny fily
 
 ## Reset
 
